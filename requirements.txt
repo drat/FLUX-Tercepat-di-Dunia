@@ -1,0 +1,7 @@
+accelerate
+git+https://github.com/huggingface/diffusers.git
+torch
+gradio
+transformers
+xformers
+sentencepiece
