@@ -4,7 +4,8 @@ Selamat datang di **Realtime FLUX - Tercepat di Dunia**, aplikasi canggih untuk 
 
 ![FLUX-Tercepat-di-Dunia-a-Hugging-Face-Space-by-Deddy](https://github.com/user-attachments/assets/150ddc96-bf37-46a1-a29f-decaf5595021)
 
-![https://deddy-flux-tercepat-di-dunia.hf.space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl.svg)](https://deddy-flux-tercepat-di-dunia.hf.space)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)](https://deddy-flux-tercepat-di-dunia.hf.space)
 
 ## Fitur Utama
 
